@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\LINQ\linq5\linq5\bin\Debug\linq5.exe.config
+C:\Users\TGSUser070\Desktop\LINQ\linq5\linq5\bin\Debug\linq5.exe
+C:\Users\TGSUser070\Desktop\LINQ\linq5\linq5\bin\Debug\linq5.pdb
+C:\Users\TGSUser070\Desktop\LINQ\linq5\linq5\obj\Debug\linq5.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\LINQ\linq5\linq5\obj\Debug\linq5.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\LINQ\linq5\linq5\obj\Debug\linq5.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\LINQ\linq5\linq5\obj\Debug\linq5.exe
+C:\Users\TGSUser070\Desktop\LINQ\linq5\linq5\obj\Debug\linq5.pdb

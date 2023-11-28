@@ -1,0 +1,16 @@
+C:\Users\TGSUser070\Desktop\LINQ\linq3\linq3\bin\Debug\linq3.exe.config
+C:\Users\TGSUser070\Desktop\LINQ\linq3\linq3\bin\Debug\linq3.exe
+C:\Users\TGSUser070\Desktop\LINQ\linq3\linq3\bin\Debug\linq3.pdb
+C:\Users\TGSUser070\Desktop\LINQ\linq3\linq3\obj\Debug\linq3.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\LINQ\linq3\linq3\obj\Debug\linq3.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\LINQ\linq3\linq3\obj\Debug\linq3.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\LINQ\linq3\linq3\obj\Debug\linq3.exe
+C:\Users\TGSUser070\Desktop\LINQ\linq3\linq3\obj\Debug\linq3.pdb
+C:\Users\TGSUser070\Desktop\LINQ\Select\linq3\bin\Debug\linq3.exe.config
+C:\Users\TGSUser070\Desktop\LINQ\Select\linq3\bin\Debug\linq3.exe
+C:\Users\TGSUser070\Desktop\LINQ\Select\linq3\bin\Debug\linq3.pdb
+C:\Users\TGSUser070\Desktop\LINQ\Select\linq3\obj\Debug\linq3.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\LINQ\Select\linq3\obj\Debug\linq3.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\LINQ\Select\linq3\obj\Debug\linq3.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\LINQ\Select\linq3\obj\Debug\linq3.exe
+C:\Users\TGSUser070\Desktop\LINQ\Select\linq3\obj\Debug\linq3.pdb

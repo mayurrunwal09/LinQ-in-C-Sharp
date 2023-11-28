@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\LINQ\MAX\MAX\bin\Debug\MAX.exe.config
+C:\Users\TGSUser070\Desktop\LINQ\MAX\MAX\bin\Debug\MAX.exe
+C:\Users\TGSUser070\Desktop\LINQ\MAX\MAX\bin\Debug\MAX.pdb
+C:\Users\TGSUser070\Desktop\LINQ\MAX\MAX\obj\Debug\MAX.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\LINQ\MAX\MAX\obj\Debug\MAX.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\LINQ\MAX\MAX\obj\Debug\MAX.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\LINQ\MAX\MAX\obj\Debug\MAX.exe
+C:\Users\TGSUser070\Desktop\LINQ\MAX\MAX\obj\Debug\MAX.pdb

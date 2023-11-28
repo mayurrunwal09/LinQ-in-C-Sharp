@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\LINQ\Count\Count\bin\Debug\Count.exe.config
+C:\Users\TGSUser070\Desktop\LINQ\Count\Count\bin\Debug\Count.exe
+C:\Users\TGSUser070\Desktop\LINQ\Count\Count\bin\Debug\Count.pdb
+C:\Users\TGSUser070\Desktop\LINQ\Count\Count\obj\Debug\Count.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\LINQ\Count\Count\obj\Debug\Count.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\LINQ\Count\Count\obj\Debug\Count.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\LINQ\Count\Count\obj\Debug\Count.exe
+C:\Users\TGSUser070\Desktop\LINQ\Count\Count\obj\Debug\Count.pdb

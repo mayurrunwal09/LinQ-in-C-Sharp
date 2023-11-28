@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\LINQ\where in linq\where in linq\bin\Debug\where in linq.exe.config
+C:\Users\TGSUser070\Desktop\LINQ\where in linq\where in linq\bin\Debug\where in linq.exe
+C:\Users\TGSUser070\Desktop\LINQ\where in linq\where in linq\bin\Debug\where in linq.pdb
+C:\Users\TGSUser070\Desktop\LINQ\where in linq\where in linq\obj\Debug\where in linq.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\LINQ\where in linq\where in linq\obj\Debug\where in linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\LINQ\where in linq\where in linq\obj\Debug\where in linq.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\LINQ\where in linq\where in linq\obj\Debug\where in linq.exe
+C:\Users\TGSUser070\Desktop\LINQ\where in linq\where in linq\obj\Debug\where in linq.pdb

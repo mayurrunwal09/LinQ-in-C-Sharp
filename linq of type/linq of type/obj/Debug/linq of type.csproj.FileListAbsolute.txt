@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\LINQ\linq of type\linq of type\bin\Debug\linq of type.exe.config
+C:\Users\TGSUser070\Desktop\LINQ\linq of type\linq of type\bin\Debug\linq of type.exe
+C:\Users\TGSUser070\Desktop\LINQ\linq of type\linq of type\bin\Debug\linq of type.pdb
+C:\Users\TGSUser070\Desktop\LINQ\linq of type\linq of type\obj\Debug\linq of type.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\LINQ\linq of type\linq of type\obj\Debug\linq of type.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\LINQ\linq of type\linq of type\obj\Debug\linq of type.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\LINQ\linq of type\linq of type\obj\Debug\linq of type.exe
+C:\Users\TGSUser070\Desktop\LINQ\linq of type\linq of type\obj\Debug\linq of type.pdb
